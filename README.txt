@@ -1,0 +1,1 @@
+This code helped give me a better understanding of shift registers and how they can be programmed to act as multiplexers when connected to an Arduino IDE. Their purpose for this project was to be daisy chained in order to automatically control four 7-segment displays by increasing bit size and calculating hours and minutes.
